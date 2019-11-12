@@ -1,4 +1,4 @@
-# vuetitutti
+# vuetitutti, very firty version
 
 ## Project setup
 ```
